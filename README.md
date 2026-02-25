@@ -1,36 +1,93 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+Altercode.cl
 
-## Getting Started
+Ingeniería de Software & Inteligencia Artificial
 
-First, run the development server:
+Landing page oficial de Altercode, estudio de desarrollo de software
+liderado por César Guajardo.
+Este sitio presenta soluciones tecnológicas de alta complejidad,
+integrando arquitectura moderna, Inteligencia Artificial y procesos de
+transformación digital para organizaciones públicas y privadas.
 
-```bash
+------------------------------------------------------------------------
+
+🚀 Proyectos Destacados
+
+🔹 TalkGym
+
+Simulador conversacional potenciado por IA para el entrenamiento de
+habilidades sociales y comunicación efectiva.
+https://talkgym.altercode.cl
+
+🔹 Portal de Traslados Digitales
+
+Plataforma municipal para la gestión y pago en línea de permisos de
+circulación.
+Desarrollado para la Municipalidad de San Felipe.
+
+🔹 SGPE
+
+Sistema de Gestión de Pasajes Estudiantiles con procesamiento
+inteligente de documentos y validación automatizada.
+
+------------------------------------------------------------------------
+
+🛠️ Stack Tecnológico
+
+Este proyecto fue desarrollado con tecnologías modernas orientadas a
+rendimiento, escalabilidad y mantenibilidad:
+
+-   Framework: Next.js 15 (App Router)
+-   Estilos: Tailwind CSS v4
+-   Animaciones: Framer Motion
+-   Iconografía: Lucide React
+-   Envío de correos: Resend
+
+------------------------------------------------------------------------
+
+⚙️ Instalación y Desarrollo
+
+1.  Clonar el repositorio:
+
+git clone https://github.com/crashslider/altercode.git
+cd altercode-web
+
+2.  Instalar dependencias:
+
+npm install
+
+3.  Configurar variables de entorno:
+
+Crear un archivo .env.local en la raíz del proyecto y añadir:
+
+RESEND_API_KEY=re_tu_clave_aqui
+
+4.  Ejecutar el entorno de desarrollo:
+
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+El proyecto estará disponible en:
+http://localhost:3000
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+------------------------------------------------------------------------
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+📦 Estructura del Proyecto
 
-## Learn More
+/app → Rutas y layout (App Router)
+/components → Componentes reutilizables
+/lib → Utilidades y lógica compartida
+/public → Recursos estáticos
 
-To learn more about Next.js, take a look at the following resources:
+------------------------------------------------------------------------
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+📄 Licencia
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Este proyecto es propiedad privada de César Guajardo – Altercode.
+El código se publica únicamente con fines de exhibición de portafolio
+técnico.
 
-## Deploy on Vercel
+No se autoriza la reproducción total o parcial del diseño o código para
+fines comerciales sin autorización previa.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+------------------------------------------------------------------------
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Desarrollado con profesionalismo y precisión técnica desde Chile 🇨🇱
