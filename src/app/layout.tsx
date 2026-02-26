@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Altercode | Ingeniería de Software & IA",
   description: "Estudio de desarrollo liderado por César Guajardo. Especializado en aplicaciones escalables, IA Generativa y soluciones GovTech.",
-  keywords: ["Desarrollo de Software", "IA", "Chile", "Next.js", "Laravel", "TalkGym"],
+  keywords: ["Desarrollo de Software", "IA", "Chile", "Next.js", "Laravel", "TalkFit"],
   authors: [{ name: "César Guajardo" }],
   openGraph: {
     title: "Altercode | Ingeniería de Software & IA",

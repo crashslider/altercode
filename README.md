@@ -12,11 +12,11 @@ transformación digital para organizaciones públicas y privadas.
 
 🚀 Proyectos Destacados
 
-🔹 TalkGym
+🔹 TalkFit
 
 Simulador conversacional potenciado por IA para el entrenamiento de
 habilidades sociales y comunicación efectiva.
-https://talkgym.altercode.cl
+https://talkfit.altercode.cl
 
 🔹 Portal de Traslados Digitales
 
