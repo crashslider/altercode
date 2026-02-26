@@ -4,7 +4,7 @@ import { ExternalLink, Bot, Car, GraduationCap, ArrowRight } from "lucide-react"
 
 const projects = [
   {
-    title: "TalkGym",
+    title: "TalkFit",
     category: "AI & Soft Skills",
     description: "Plataforma de entrenamiento conversacional que utiliza modelos de lenguaje avanzados para simular entornos de alta tensión y mejorar las habilidades sociales.",
     features: [
@@ -15,7 +15,7 @@ const projects = [
     ],
     tags: ["Next.js", "OpenAI API", "WebSockets", "Tailwind"],
     icon: <Bot className="w-6 h-6 text-sky-400" />,
-    link: "https://talkgym.altercode.cl",
+    link: "https://talkfit.altercode.cl",
     className: "md:col-span-2 md:row-span-2 bg-gradient-to-br from-sky-500/10 via-indigo-500/5 to-transparent",
   },
   {
@@ -88,7 +88,7 @@ export default function Projects() {
                     {project.description}
                 </p>
 
-                {/* Sección nueva para TalkGym o proyectos grandes */}
+                {/* Sección nueva para TalkFit o proyectos grandes */}
                 {project.features && (
                     <ul className="grid grid-cols-1 sm:grid-cols-2 gap-3 mb-8">
                     {project.features.map((feature) => (
