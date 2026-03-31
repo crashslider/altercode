@@ -17,6 +17,10 @@ export const metadata: Metadata = {
   description: "Estudio de desarrollo liderado por César Guajardo. Especializado en aplicaciones escalables, IA Generativa y soluciones GovTech.",
   keywords: ["Desarrollo de Software", "IA", "Chile", "Next.js", "Laravel", "TalkFit"],
   authors: [{ name: "César Guajardo" }],
+  icons: {
+    icon: "/icon.png",
+    apple: "/icon.png",
+  },
   openGraph: {
     title: "Altercode | Ingeniería de Software & IA",
     description: "Transformando ideas complejas en productos digitales de alto rendimiento.",
@@ -24,7 +28,7 @@ export const metadata: Metadata = {
     siteName: "Altercode",
     images: [
       {
-        url: "/og-image.png", // imagen de 1200x630
+        url: "/banner.png",
         width: 1200,
         height: 630,
       },
@@ -36,6 +40,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Altercode | César Guajardo",
     description: "Desarrollo Full-Stack e IA de alto impacto.",
+    images: ["/banner.png"],
   },
 };
 
